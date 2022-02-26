@@ -44,3 +44,5 @@ herbata[4]="włóż herbatę do kubka"
 herbata[5]="zalej herbatę"
 for i in herbata:
     print(i)
+#
+print("nadal nie wiem jak zrobić te duże litery w zadaniu z zakupami")
