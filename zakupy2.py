@@ -51,3 +51,4 @@ print("Jak masz jakieś wskazówki, jak to wszystko przyswoić, to bardzo prosz�
 #
 print("https://www.geeksforgeeks.org/python-convert-strings-to-uppercase-in-dictionary-value-lists/?ref=gcse")
 print("Probowałem kodu z linku i też nic, coś musiałem schrzanić. Poza tym, to zamienia całe wyrazy na wielkie litery, a nie tylko pierwszą literę, choć to pewnie można załatwić pisząc w kodzie [0] lub coś z tym sytulu?")
+print("Pisanie tych commitów nie jest trudne tyle co upierdliwe i wymaga zapamiętania kilku prostych poleceń.")
