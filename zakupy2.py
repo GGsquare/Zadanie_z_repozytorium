@@ -25,3 +25,22 @@ for num in lista:
     liczby_pierwsze.append(num)
 
 print(liczby_pierwsze)
+#
+print()
+#
+print("Sekwencja przed sortowaniem:")
+print()
+herbata = ["włącz czajnik", "znajdź opakowanie herbaty", "zalej herbatę", "nalej wody do czajnika", "wyjmij kubek", "włóż herbatę do kubka"]
+for i in herbata:
+    print(i)
+print()
+print("Sekwencja po sortowaniu:")
+print()
+herbata[0]="nalej wody do czajnika"
+herbata[1]="włącz czajnik"
+herbata[2]="wyjmij kubek"
+herbata[3]="znajdź opakowanie herbaty"
+herbata[4]="włóż herbatę do kubka"
+herbata[5]="zalej herbatę"
+for i in herbata:
+    print(i)
