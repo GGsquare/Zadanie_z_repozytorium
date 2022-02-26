@@ -48,3 +48,6 @@ for i in herbata:
 print("nadal nie wiem jak zrobić te duże litery w zadaniu z zakupami")
 #
 print("Jak masz jakieś wskazówki, jak to wszystko przyswoić, to bardzo proszę, bo już mi głową pęka od tych komend, a wiem, że to dopiero początek")
+#
+print("https://www.geeksforgeeks.org/python-convert-strings-to-uppercase-in-dictionary-value-lists/?ref=gcse")
+print("Probowałem kodu z linku i też nic, coś musiałem schrzanić. Poza tym, to zamienia całe wyrazy na wielkie litery, a nie tylko pierwszą literę, choć to pewnie można załatwić pisząc w kodzie [0] lub coś z tym sytulu?")
