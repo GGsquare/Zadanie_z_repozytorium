@@ -46,3 +46,5 @@ for i in herbata:
     print(i)
 #
 print("nadal nie wiem jak zrobić te duże litery w zadaniu z zakupami")
+#
+print("Jak masz jakieś wskazówki, jak to wszystko przyswoić, to bardzo proszę, bo już mi głową pęka od tych komend, a wiem, że to dopiero początek")
